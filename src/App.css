@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(115, 172, 212);
+}
+
+.digital{
+  text-align: center;
+  margin: auto;
+  width: 200px;
+
+}
+h1{
+  border: 5px solid rgb(231, 227, 237);
+  margin-top: 40vh;
+  border-radius:10px ;
+  padding: 10px;
+  background-color: rgb(29, 28, 27);
+  color: aliceblue;
+  width: 250px;
+  
+
+}
